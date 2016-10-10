@@ -17,4 +17,4 @@ Old simple tool made to give SA-MP's standard RCON a GUI. Not maintained.
 - Send a message in-game
 
 ### Credits
-Cueball for his C# SA-MP Query class here.
+Cueball for his C# SA-MP Query class [here](http://wiki.sa-mp.com/wiki/Query_Mechanism/Csharp).
